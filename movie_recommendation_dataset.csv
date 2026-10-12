@@ -1,0 +1,11 @@
+UserID,MovieID,MovieName,Genre,Rating
+1,101,Inception,Sci-Fi,5
+1,102,Titanic,Romance,4
+2,101,Inception,Sci-Fi,4
+2,103,Avengers,Action,5
+3,104,Frozen,Animation,3
+3,105,Interstellar,Sci-Fi,5
+4,101,Inception,Sci-Fi,4
+4,105,Interstellar,Sci-Fi,4
+5,102,Titanic,Romance,5
+5,104,Frozen,Animation,3
